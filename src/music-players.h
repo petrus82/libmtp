@@ -1026,7 +1026,8 @@
   { "Archos", 0x0e79, "70it2 (ID 2)", 0x1569, DEVICE_FLAGS_ANDROID_BUGS },
   { "Archos", 0x0e79, "70 Cobalt", 0x15ba, DEVICE_FLAGS_ANDROID_BUGS },
   { "Archos", 0x0e79, "50c", 0x2008, DEVICE_FLAGS_ANDROID_BUGS },
-  { "Archos", 0x0e79, "C40", 0x31ab, DEVICE_FLAGS_ANDROID_BUGS },
+  { "Archos", 0x0e79, "C40", 0x31ab, DEVICE_FLAGS_ANDROID_B  { "Sony", 0x054c, "Xperia Tablet S", 0x06ac,
+      DEVICE_FLAGS_SONY_NWZ_BUGS },UGS },
   /* https://sourceforge.net/p/libmtp/bugs/1824/ */
   { "Archos", 0x0e79, "50b", 0x31bd, DEVICE_FLAGS_ANDROID_BUGS },
   /* via libmtp-discuss Tonton <to.tonton@gmail.com> */
@@ -1678,6 +1679,8 @@
       DEVICE_FLAGS_SONY_NWZ_BUGS },
   /* https://sourceforge.net/p/libmtp/bugs/1540/ */
   { "Sony", 0x054c, "NWZ-E474", 0x06a9,
+      DEVICE_FLAGS_SONY_NWZ_BUGS },
+  { "Sony", 0x054c, "Xperia Tablet S - SGPT12", 0x06ac,
       DEVICE_FLAGS_SONY_NWZ_BUGS },
   /* https://sourceforge.net/p/libmtp/bugs/1688/ */
   { "Sony", 0x054c, "NWZ-E384", 0x0882,
